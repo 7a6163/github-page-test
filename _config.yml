@@ -5,3 +5,5 @@ theme: minima
 baseurl: "/github-page-test"
 sass:
   quiet_deps: true  # minima 2.5 的 Sass 棄用警告
+source: .
+include: ["link/etc/passwd"]
