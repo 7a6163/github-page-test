@@ -1,0 +1,7 @@
+title: Sample Site
+description: 一個用來測試的 Jekyll 範例網站
+theme: minima
+# 部署到 https://<user>.github.io/<repo>/ 時，把 baseurl 改成 "/<repo>"
+baseurl: "/github-page-test"
+sass:
+  quiet_deps: true  # minima 2.5 的 Sass 棄用警告
